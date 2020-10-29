@@ -47,16 +47,17 @@
     ],
     "favicon": "@PROJECT_PATH@/assets/images/dad-daves-social-media-icon-128x120-1.png",
     "imageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://dadanddaveshandyman.com.au/",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 17,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W452GSQ');</script>\n<!-- End Google Tag Manager -->"
+    "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W452GSQ');</script>\n<!-- End Google Tag Manager -->",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
